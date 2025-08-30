@@ -126,6 +126,128 @@ Please only use these commands for working stand-alone on your own computer with
 
 You can now perform Tekton development locally, just like in the Cloud IDE lab environment.
 
+## Results
+
+* Planning story template:
+
+![Story template](images/Task-1b-planning-storytemplate-done.JPG)
+
+* Planning user stories:
+
+![Planning user stories](images/Task-1c-planning-userstories-done.JPG)
+
+* Planning product backlog:
+
+![Planning product backlog](images/Task-1d-planning-productbacklog-done.JPG)
+
+* Planning labels:
+
+![Planning labels](images/Task-1e-planning-labels-done.JPG)
+
+* Planning kanban:
+
+![Planning kanban](images/Task-1f-planning-kanban-done.JPG)
+
+* REST setup configuration:
+
+![REST setup configuration](images/Task-2a-rest-setupcfg-done.JPG)
+
+* REST technical debt:
+
+![REST technical debt](images/Task-2b-rest-techdebt-done.JPG)
+
+* Read accounts:
+
+![Read accounts](images/Task-2c-read-accounts.JPG)
+
+* List accounts:
+
+![List accounts](images/Task-2d-list-accounts.JPG)
+
+* Update accounts:
+
+![Update accounts](images/Task-2e-update-accounts.JPG)
+
+* Delete accounts:
+
+![Delete accounts](images/Task-2f-delete-accounts.JPG)
+
+* REST create:
+
+![REST create](images/Task-2g-rest-create-done.JPG)
+
+* REST read:
+
+![REST read](images/Task-2h-rest-read-done.JPG)
+
+* REST list:
+
+![REST list](images/Task-2i-rest-list-done.JPG)
+
+* REST update:
+
+![REST update](images/Task-2j-rest-update-done.JPG)
+
+* REST delete:
+
+![REST delete](images/Task-2k-rest-delete-done.JPG)
+
+* Sprint 2 plan:
+
+![Sprint 2 plan](images/Task-3a-sprint2-plan.JPG)
+
+* CI workkflow:
+
+![CI workflow](images/Task-3b-ci-workflow-done.JPG)
+
+* CI badge:
+
+![CI badge](images/Task-3c-ci-badge-done.JPG)
+
+* CI kanban:
+
+![CI kanban](images/Task-3d-ci-kanban-done.JPG)
+
+* Security code:
+
+![Security code](images/Task-3f-security-code-done.JPG)
+
+* Security headers:
+
+![Security headers](images/Task-3g-security-headers-done.JPG)
+
+* Security kanban:
+
+![Security kanban](images/Task-3h-security-kanban-done.JPG)
+
+* Sprint 3 plan:
+
+![Sprint 3 plan](images/Task-4a-sprint3-plan.JPG)
+
+* Kube app output:
+
+![Kube app output](images/Task-4b-kube-app-output.JPG)
+
+* Kube docker:
+
+![Kube docker](images/Task-4c-kube-docker-done.JPG)
+
+* Kube images:
+
+![Kube images](images/Task-4e-kube-images.JPG)
+
+* Kube deploy accounts:
+
+![Kube deploy accounts](images/Task-4f-kube-deploy-accounts.JPG)
+
+* Kube kubernetes:
+
+![Kube kubernetes](images/Task-4g-kube-kubernetes-done.JPG)
+
+* CD pipeline:
+
+![CD pipeline](images/Task-5b-cd-pipeline-done.JPG)
+
 ## Author
 
 [John Rofrano](https://www.coursera.org/instructor/johnrofrano), Senior Technical Staff Member, DevOps Champion, @ IBM Research, and Instructor @ Coursera
